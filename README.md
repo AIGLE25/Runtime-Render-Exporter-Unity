@@ -408,3 +408,7 @@ The stable V1 path is direct Camera render plus ffmpeg streaming.
 
 AsyncGPUReadback and URP RenderGraph capture are intentionally not included yet. They are promising for performance, but they need isolated reliability work before they should become a sellable feature.
 
+
+
+https://github.com/user-attachments/assets/0eea27b3-12a6-46cb-9251-f683f9e81557
+
